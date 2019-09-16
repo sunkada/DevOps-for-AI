@@ -2,7 +2,7 @@
 
 This tutorial demonstrates how to implement a Continous Integration (CI)/Continous Delivery (CD) pipeline for an AI application. AI application is a combination of application code embedded with a pretrained machine learning (ML) model. For this tutorial we are fetching a pretrained model from a private Azure blob storage account, it could be a AWS S3 account as well.
 
-We will use a simple python flask web application for the tutorial, you can download the source code from [GitHub](https://github.com/Azure/DevOps-For-AI-Apps).
+We will use a simple python flask web application for the tutorial, you can download the source code from [GitHub](https://github.com/sunkada/DevOps-for-AI).
 
 For an in-depth underastanding of how DevOps integrates with different stages of an AI Data Science project, checkout this [training](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/team-data-science-process-for-devops) from our team. In addition, do checkout this great [series](https://blogs.msdn.microsoft.com/buckwoody/category/devops-for-data-science/) of blog posts on DevOps in Data Science from Microsoft. 
 
